@@ -531,6 +531,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[User Prompt MCP](https://github.com/nazar256/user-prompt-mcp)** - An MCP server for Cursor that enables requesting user input during generation process.
 - **[Vectorize](https://github.com/vectorize-io/vectorize-mcp-server/)** - [Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.
 - **[Vega-Lite](https://github.com/isaacwasserman/mcp-vegalite-server)** - Generate visualizations from fetched data using the VegaLite format and renderer.
+- **[VideoUpscaler](https://github.com/arkyu2077/ai-video-upscaler)** - Official remote MCP server (`https://videoupscaler.co/api/mcp`) for [VideoUpscaler](https://videoupscaler.co) enabling AI assistants to upscale, denoise, deinterlace, and frame-interpolate videos up to 4K 60fps on cloud GPUs.
 - **[Vibe Check](https://github.com/PV-Bhat/vibe-check-mcp-server)** - The definitive Vibe Coder's sanity check MCP server: Prevents cascading errors by calling a "Vibe-check" agent to ensure alignment and prevent scope creep
 - **[Wassenger](https://github.com/wassengerhq/mcp-wassenger)** - [Wassenger](https://wassenger.com) MCP server to chat, send messages and automate WhatsApp from any AI model client (free trial available).
 - **[Weather](https://github.com/TimLukaHorstmann/mcp-weather)** - Accurate weather forecasts via the AccuWeather API (free tier available).
